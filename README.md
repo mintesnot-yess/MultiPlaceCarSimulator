@@ -76,9 +76,6 @@ Currently, the **Forest** environment is in development, with more locations com
 
 ## 📸 Screenshots
 
-### 🌲 Forest Preview
-![Forest Preview](https://github.com/mintesnot-yess/MultiPlaceCarSimulator/blob/main/Assets/Screenshots/sample-image.png?raw=true)
-
-### 🌳 Forest Preview 2
+### Forest Preview 2
 ![Forest Preview 2](https://github.com/mintesnot-yess/MultiPlaceCarSimulator/blob/main/Assets/Screenshots/sample-image1.png?raw=true)
 
