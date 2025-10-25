@@ -79,4 +79,4 @@ Currently, the **Forest** environment is in development, with more locations com
 ```markdown
 ![Alt text](relative%20Assets/Screenshots/forest_scene.png?raw=true "Title")
 
-[Forest Preview](Assets/Screenshots/forest_scene.png)
+[Forest Preview]([Assets/Screenshots/forest_scene.png](https://github.com/mintesnot-yess/MultiPlaceCarSimulator/blob/main/Assets/Screenshots/sample-image1.png?raw=true))
